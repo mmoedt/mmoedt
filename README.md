@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmoedt
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning to cook better
+- 👀 I’m interested in coding professionally as a Full-Stack Software Developer! 
+- 🌱 Take a look at https://linkedin.com/in/michael-moedt for a summary of my experience.
 - 💞️ I’m looking to collaborate on development environment scripting
 - 📫 How to reach me is probably easiest through my email mmoedt@gmail.com
 
